@@ -25,5 +25,5 @@ Go through the below links to learn more about web development.
 * [ Codeacademy](https://www.codecademy.com/)
 
 ## contributors
-I am Suma Soma, I am a graduate student of Applied computer science at Northwest Missouri State University. 
+I am Suma Soma, I am a graduate student of Applied computer science Program at Northwest Missouri State University. 
 ![suma](IMG_5307.PNG)
