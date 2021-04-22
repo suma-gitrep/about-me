@@ -4,8 +4,7 @@
 
 * [Repository Source](https://github.com/suma-gitrep/about-me.git)
 
-## About
-This repository is having information about how to publish a site, tools recommended and short description about me.
+
 
 ## Recommended Tools
 To publish a website all we need is a browser, visual studio code to write our code and make changes easily, Git Bash and Tortoise git to push/pull our code from repository and local system. I personally recommend tortise git. It made me very easy to push/pull code from repository/local system without using and commands.
